@@ -12,7 +12,7 @@
 
 ## 📃Licença:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-Padroes-Projetos-Java)
+![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-Jogo-RPG-POO)
 
  
 <!-- <div align="right"> <h3> - Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3> </div> 
